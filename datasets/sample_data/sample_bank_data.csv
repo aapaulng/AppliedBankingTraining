@@ -1,0 +1,511 @@
+account_id,name,age,gender,city,account_type,balance,loan_amount,transaction_count,last_transaction
+MY1000,Aisyah Bin Ali,56,Male,Kuala Lumpur,Savings,47747.78,53970.86,55,12/14/2023
+MY1001,Siti Bin Hafiz,69,Male,Kota Kinabalu,Fixed Deposit,36921.06,0,100,4/25/2023
+MY1002,Aisyah Bin Fatimah,,Female,Kuching,Savings,27762.27,34961.43,173,4/14/2023
+MY1003,Farid Bin Ahmad,32,Male,Penang,Savings,30624.87,35021.84,136,4/28/2023
+MY1004,Aisyah Bin Siti,60,Male,Kuching,Current,21038.04,73881.37,119,1/5/2023
+MY1005,Amir Bin Amir,25,Female,Kota Kinabalu,Current,12461.78,45495.69,53,12/26/2023
+MY1006,Siti Binti Siti,38,Male,Kota Kinabalu,Fixed Deposit,17863.04,0,183,9/5/2023
+MY1007,Zahra Binti Ahmad,56,Female,Kuala Lumpur,Current,37916.52,0,32,12/30/2023
+MY1008,Hafiz Binti Nur,36,Male,Penang,Fixed Deposit,818.24,14515.27,51,11/17/2023
+MY1009,Ali Bin Siti,,Male,Shah Alam,Savings,5892.02,0,44,5/1/2023
+MY1010,Nur Bin Aisyah,28,Male,Penang,Fixed Deposit,2395.53,50087.59,82,10/13/2023
+MY1011,Farid Bin Nur,28,Male,Kuala Lumpur,Savings,2132.37,0,198,5/29/2023
+MY1012,Nur Binti Ahmad,41,Female,Shah Alam,Savings,42787.48,0,146,3/25/2023
+MY1013,Zahra Bin Farid,53,Male,Shah Alam,Savings,35212.53,0,150,8/19/2023
+MY1014,Aisyah Binti Fatimah,57,Female,Penang,Fixed Deposit,23761.27,0,37,10/15/2023
+MY1015,Nur Bin Aisyah,41,Female,Kota Kinabalu,Fixed Deposit,4981.92,63410.3,96,6/10/2023
+MY1016,Ahmad Bin Ali,20,Male,Johor Bahru,Current,24631.63,0,56,9/29/2023
+MY1017,Aisyah Bin Aisyah,,Female,Kuala Lumpur,Current,23726.24,66521.97,105,2/7/2023
+MY1018,Farid Binti Zahra,19,Female,Kuala Lumpur,Savings,8742.77,18214.58,59,8/14/2023
+MY1019,Nur Bin Nur,41,Female,Johor Bahru,Savings,21749.2,0,131,5/22/2023
+MY1020,Nur Bin Ali,61,Male,Kuching,Fixed Deposit,,15291.94,156,10/19/2023
+MY1021,Aisyah Bin Amir,47,Male,Kuching,Current,30830.92,41755.1,35,5/31/2023
+MY1022,Siti Bin Zahra,55,Female,Kuala Lumpur,Fixed Deposit,31791.17,8992.29,189,4/24/2023
+MY1023,Farid Binti Amir,19,Female,Johor Bahru,Fixed Deposit,2360.67,99688.99,93,8/25/2023
+MY1024,Siti Binti Ahmad,38,Male,Johor Bahru,Fixed Deposit,18793.17,0,182,3/7/2023
+MY1025,Siti Bin Nur,50,Female,Shah Alam,Savings,31330.41,0,191,12/27/2023
+MY1026,Farid Binti Aisyah,29,Female,Kota Kinabalu,Savings,25206.5,7174.11,97,12/7/2023
+MY1027,Siti Binti Siti,39,Female,Kuching,Current,42838.84,75121.07,135,9/15/2023
+MY1028,Zahra Binti Zahra,61,Female,Kuching,Savings,32968.81,21385.61,76,9/6/2023
+MY1029,Hafiz Binti Hafiz,42,Female,Shah Alam,Savings,8230.43,89856.4,49,11/27/2023
+MY1030,Siti Binti Fatimah,66,Female,Penang,Fixed Deposit,3621.38,20911.39,94,11/19/2023
+MY1031,Farid Binti Nur,44,Male,Kuching,Savings,32156.72,19473.43,159,6/29/2023
+MY1032,Siti Bin Amir,59,Male,Shah Alam,Fixed Deposit,1422.91,0,186,7/9/2023
+MY1033,Zahra Bin Ahmad,45,Male,Johor Bahru,Current,29330.2,0,189,6/3/2023
+MY1034,Aisyah Bin Hafiz,33,Female,Penang,Savings,47017.49,56701.69,24,7/15/2023
+MY1035,Farid Bin Farid,32,Male,Kuala Lumpur,Current,28816.16,7038.01,148,11/7/2023
+MY1036,Farid Binti Amir,64,Female,Johor Bahru,Savings,19469.68,0,37,9/19/2023
+MY1037,Ali Bin Aisyah,68,Female,Penang,Fixed Deposit,32200.08,45602.24,4,5/23/2023
+MY1038,Amir Binti Nur,61,Male,Kota Kinabalu,Savings,22966.82,0,108,12/8/2023
+MY1039,Aisyah Binti Farid,69,Male,,Fixed Deposit,27326.28,44355.89,126,11/12/2023
+MY1040,Hafiz Binti Ahmad,20,Female,Kota Kinabalu,Current,47079.09,0,20,4/11/2023
+MY1041,Ali Bin Amir,54,Male,Johor Bahru,Fixed Deposit,19366.52,56184.21,188,9/1/2023
+MY1042,Aisyah Binti Amir,68,Male,Kota Kinabalu,Fixed Deposit,48063.41,15946.4,152,1/12/2023
+MY1043,Fatimah Bin Hafiz,24,Female,Penang,Current,45277,18601.85,50,8/27/2023
+MY1044,Nur Bin Amir,38,Female,Kuala Lumpur,Current,9869.98,86247.67,177,2/18/2023
+MY1045,Amir Bin Fatimah,26,Male,Kota Kinabalu,Fixed Deposit,3561.13,94638.49,179,2/11/2023
+MY1046,Nur Binti Ahmad,56,Female,Johor Bahru,Savings,5128.82,0,96,6/15/2023
+MY1047,Aisyah Binti Ali,35,Male,Johor Bahru,Fixed Deposit,1009.27,27439.09,105,3/23/2023
+MY1048,Siti Bin Siti,21,Male,Kuching,Fixed Deposit,4812.7,64577.95,164,10/18/2023
+MY1049,Fatimah Bin Aisyah,42,Female,Kota Kinabalu,Savings,34182.04,0,117,6/7/2023
+MY1050,Zahra Bin Amir,31,Female,Penang,Fixed Deposit,3652.31,0,98,8/4/2023
+MY1051,Hafiz Bin Zahra,67,Male,Penang,Fixed Deposit,16016.88,0,66,6/7/2023
+MY1052,Amir Bin Ali,26,Female,Kuching,Current,,71739.24,79,5/14/2023
+MY1053,Amir Binti Siti,43,Male,Kota Kinabalu,Savings,1261.27,0,162,3/8/2023
+MY1054,Amir Bin Ali,19,Female,Shah Alam,Savings,40741.98,0,164,12/2/2023
+MY1055,Farid Binti Zahra,37,Female,Shah Alam,Current,14164.55,0,6,1/7/2023
+MY1056,Amir Binti Aisyah,45,Male,Kuching,Savings,5996.42,23491.94,39,1/14/2023
+MY1057,Siti Bin Aisyah,64,Female,Johor Bahru,Savings,34867.18,67353.33,170,3/14/2023
+MY1058,Nur Bin Fatimah,24,Male,Kuala Lumpur,Current,31484.25,0,115,6/12/2023
+MY1059,Amir Bin Fatimah,61,Female,Shah Alam,Fixed Deposit,,10858.8,186,3/7/2023
+MY1060,Siti Bin Aisyah,25,Male,Kota Kinabalu,Fixed Deposit,36780.05,0,125,12/13/2023
+MY1061,Ahmad Bin Aisyah,64,Male,Kuala Lumpur,Fixed Deposit,40193.7,0,12,5/10/2023
+MY1062,Ahmad Binti Aisyah,52,Female,Penang,Current,14173.53,65448.24,131,7/25/2023
+MY1063,Amir Bin Ali,31,Male,Penang,Current,8954.23,0,18,10/3/2023
+MY1064,Zahra Bin Amir,34,Female,Shah Alam,Savings,37555.68,10394.42,40,9/13/2023
+MY1065,Hafiz Binti Siti,53,Male,Johor Bahru,Fixed Deposit,40361.05,0,21,9/23/2023
+MY1066,Zahra Binti Siti,67,Male,Penang,Current,49526.21,72365.56,143,1/25/2023
+MY1067,Aisyah Bin Farid,57,Male,Kuala Lumpur,Current,20689.62,85641.8,99,10/8/2023
+MY1068,Nur Binti Farid,21,Female,Johor Bahru,Current,18663.7,0,26,9/10/2023
+MY1069,Zahra Bin Aisyah,19,Female,Shah Alam,Savings,38843.01,40019.76,8,11/6/2023
+MY1070,Ahmad Binti Nur,23,Male,Penang,Current,17106.1,0,100,10/16/2023
+MY1071,Aisyah Bin Siti,59,Female,Shah Alam,Fixed Deposit,,0,87,6/13/2023
+MY1072,Siti Binti Hafiz,21,Female,Johor Bahru,Current,42934.8,29668.2,42,4/5/2023
+MY1073,Farid Bin Ali,46,Male,Johor Bahru,Current,21506.8,89685.41,172,9/27/2023
+MY1074,Zahra Bin Aisyah,35,Male,Johor Bahru,Savings,,0,14,11/17/2023
+MY1075,Zahra Bin Ahmad,43,Male,Kuching,Fixed Deposit,37751.69,9008.1,78,4/20/2023
+MY1076,Amir Bin Aisyah,61,Female,Kota Kinabalu,Fixed Deposit,,0,2,12/2/2023
+MY1077,Siti Bin Farid,51,Male,Kuching,Fixed Deposit,45137.39,0,119,11/6/2023
+MY1078,Zahra Binti Siti,27,Male,Kuala Lumpur,Current,25312.09,0,37,8/26/2023
+MY1079,Farid Bin Hafiz,53,Female,Johor Bahru,Savings,,0,69,1/25/2023
+MY1080,Farid Bin Farid,31,Male,Kota Kinabalu,Fixed Deposit,16070.48,42431.74,166,5/21/2023
+MY1081,Ali Binti Ali,48,Female,Johor Bahru,Current,44786.61,0,41,4/27/2023
+MY1082,Farid Binti Hafiz,65,Male,Kota Kinabalu,Savings,19521.16,0,62,1/25/2023
+MY1083,Siti Binti Siti,32,Female,Penang,Fixed Deposit,640.8,0,60,3/20/2023
+MY1084,Ahmad Bin Nur,25,Male,Kuala Lumpur,Savings,45278.56,26312.63,125,3/9/2023
+MY1085,Ahmad Bin Fatimah,31,Male,Kota Kinabalu,Savings,4655.21,0,111,6/22/2023
+MY1086,Zahra Bin Ahmad,40,Male,Kuala Lumpur,Current,16033.75,0,14,1/12/2023
+MY1087,Amir Bin Hafiz,57,Female,Shah Alam,Savings,47508.09,27172.33,84,10/15/2023
+MY1088,Aisyah Bin Siti,38,Female,Johor Bahru,Current,47535.3,0,130,5/8/2023
+MY1089,Farid Bin Fatimah,33,Male,Penang,Fixed Deposit,28714.55,41236.46,70,4/6/2023
+MY1090,Siti Bin Fatimah,62,Male,Shah Alam,Fixed Deposit,31628.68,0,145,4/2/2023
+MY1091,Aisyah Binti Fatimah,35,Female,Kota Kinabalu,Savings,22477.43,43894.59,123,5/21/2023
+MY1092,Fatimah Binti Ali,64,Male,Kuching,Fixed Deposit,14731.22,0,89,1/31/2023
+MY1093,Siti Binti Siti,41,Male,,Current,16500.36,0,28,11/30/2023
+MY1094,Ali Binti Hafiz,43,Male,Johor Bahru,Current,33658.67,76478.78,66,1/20/2023
+MY1095,Ali Binti Nur,,Female,Kota Kinabalu,Current,37643.49,0,163,5/26/2023
+MY1096,Aisyah Bin Zahra,62,Female,,Savings,39599.79,0,5,11/12/2023
+MY1097,Fatimah Bin Aisyah,58,Male,Kota Kinabalu,Savings,39501.95,0,193,6/9/2023
+MY1098,Amir Bin Amir,46,Female,Johor Bahru,Savings,4651.18,89507.95,168,12/15/2023
+MY1099,Ali Bin Nur,32,Male,Johor Bahru,Current,24771.57,80085.6,184,2/12/2023
+MY1100,Aisyah Bin Nur,62,Female,Kuching,Current,2972.18,42808.74,164,9/11/2023
+MY1101,Ali Bin Zahra,18,Male,Penang,Current,27521.49,0,45,5/10/2023
+MY1102,Amir Binti Fatimah,42,Male,Penang,Current,22132.37,27233.4,151,3/1/2023
+MY1103,Amir Bin Amir,24,Female,Penang,Savings,44396.44,0,47,5/31/2023
+MY1104,Ali Bin Hafiz,26,Male,Shah Alam,Savings,17610.66,0,31,10/14/2023
+MY1105,Ali Bin Aisyah,41,Male,Penang,Savings,5941.64,0,139,1/5/2023
+MY1106,Amir Bin Ali,18,Female,Shah Alam,Savings,7235.28,0,10,9/23/2023
+MY1107,Ali Bin Nur,61,Female,Kota Kinabalu,Current,38099.38,0,195,12/11/2023
+MY1108,Siti Binti Amir,25,Male,Kuching,Current,30949.08,98448.02,118,5/10/2023
+MY1109,Zahra Binti Ahmad,41,Female,Johor Bahru,Fixed Deposit,5146.02,52806.17,14,9/24/2023
+MY1110,Aisyah Binti Ali,28,Female,Shah Alam,Fixed Deposit,4296.93,0,80,6/27/2023
+MY1111,Ahmad Bin Nur,68,Female,Kota Kinabalu,Fixed Deposit,35078.36,0,93,9/10/2023
+MY1112,Hafiz Binti Hafiz,34,Male,Kuching,Current,3730.87,2329.87,10,2/25/2023
+MY1113,Zahra Binti Amir,25,Female,Shah Alam,Savings,41110.82,91472.73,76,3/24/2023
+MY1114,Ahmad Bin Aisyah,52,Male,Kuching,Savings,35341.49,0,94,4/9/2023
+MY1115,Hafiz Bin Nur,52,Female,Kota Kinabalu,Savings,4159.3,0,105,5/29/2023
+MY1116,Fatimah Bin Farid,50,Male,Penang,Current,4333.4,0,1,11/25/2023
+MY1117,Hafiz Bin Ali,22,Male,Penang,Fixed Deposit,49333.31,0,133,6/5/2023
+MY1118,Nur Bin Nur,59,Female,Kota Kinabalu,Savings,18776.11,0,20,7/9/2023
+MY1119,Siti Bin Aisyah,56,Male,Kuching,Fixed Deposit,18595.04,83059.31,8,9/20/2023
+MY1120,Nur Binti Fatimah,58,Male,Kuala Lumpur,Fixed Deposit,40658.7,21038.92,171,3/21/2023
+MY1121,Hafiz Bin Hafiz,45,Female,Kuching,Current,47367.7,1594.08,1,9/9/2023
+MY1122,Hafiz Binti Ahmad,24,Female,Shah Alam,Current,49301.45,14120.12,57,4/7/2023
+MY1123,Hafiz Binti Farid,26,Male,Kuching,Savings,37693.57,0,64,9/17/2023
+MY1124,Siti Binti Hafiz,25,Female,Kota Kinabalu,Current,18875.35,0,118,9/17/2023
+MY1125,Aisyah Binti Ahmad,29,Female,Johor Bahru,Current,4266.69,59942.6,28,4/13/2023
+MY1126,Zahra Bin Siti,51,Male,Kuala Lumpur,Current,38879.63,0,121,2/9/2023
+MY1127,Zahra Binti Ali,50,Male,Kuching,Savings,27964.37,0,107,9/30/2023
+MY1128,Siti Bin Ahmad,65,Male,Kuala Lumpur,Fixed Deposit,21268.68,17949.44,165,4/11/2023
+MY1129,Siti Binti Nur,40,Female,Kuala Lumpur,Fixed Deposit,45327.08,0,175,12/25/2023
+MY1130,Ali Bin Ali,41,Male,Kuching,Savings,5648.75,42167.67,165,11/4/2023
+MY1131,Nur Binti Amir,54,Female,,Fixed Deposit,24681.99,0,49,8/9/2023
+MY1132,Nur Bin Aisyah,52,Male,Penang,Fixed Deposit,666.55,0,120,11/4/2023
+MY1133,Ali Bin Fatimah,61,Male,Kuching,Savings,23486.17,5173.11,44,5/4/2023
+MY1134,Ali Bin Aisyah,57,Male,Kuching,Fixed Deposit,2909.53,17045.2,56,8/19/2023
+MY1135,Fatimah Binti Nur,39,Male,Penang,Current,6029.01,0,156,6/27/2023
+MY1136,Nur Binti Fatimah,44,Female,Penang,Savings,5964.56,0,111,3/4/2023
+MY1137,Amir Bin Farid,52,Female,,Savings,32495.59,60513.63,134,4/26/2023
+MY1138,Fatimah Bin Ali,18,Female,Kuching,Current,37327.64,24912.24,108,7/10/2023
+MY1139,Ahmad Binti Ahmad,52,Female,Shah Alam,Current,29210.1,0,189,3/3/2023
+MY1140,Amir Bin Nur,54,Female,Kuala Lumpur,Current,48112.41,0,148,9/13/2023
+MY1141,Farid Bin Nur,64,Male,Kota Kinabalu,Current,18806.04,35889.44,114,1/7/2023
+MY1142,Fatimah Binti Aisyah,31,Male,Penang,Savings,14357.03,0,78,6/4/2023
+MY1143,Ali Binti Farid,20,Female,Kota Kinabalu,Savings,43443.1,0,130,4/2/2023
+MY1144,Nur Binti Ali,18,Female,Kuching,Savings,11257.43,56857.26,37,1/14/2023
+MY1145,Amir Bin Siti,22,Male,Shah Alam,Current,,47867.02,20,8/17/2023
+MY1146,Farid Binti Hafiz,43,Female,Kuala Lumpur,Current,706.51,0,26,3/27/2023
+MY1147,Fatimah Binti Farid,31,Female,Kuching,Current,48496.95,93714.56,29,5/13/2023
+MY1148,Amir Bin Ali,56,Male,Shah Alam,Current,2253.68,73390.92,1,7/2/2023
+MY1149,Ali Bin Farid,44,Female,Kuala Lumpur,Current,,21886.57,119,3/3/2023
+MY1150,Fatimah Binti Zahra,26,Female,Shah Alam,Savings,26432.29,0,35,8/7/2023
+MY1151,Zahra Binti Siti,32,Female,Penang,Current,49648.94,26595.27,198,9/3/2023
+MY1152,Amir Binti Hafiz,32,Female,Kuching,Current,3782.45,0,59,8/18/2023
+MY1153,Aisyah Binti Amir,43,Female,Shah Alam,Savings,27737.33,0,69,3/20/2023
+MY1154,Fatimah Binti Aisyah,59,Female,Shah Alam,Fixed Deposit,48468.2,0,161,5/29/2023
+MY1155,Siti Binti Siti,30,Male,Kuching,Fixed Deposit,26202.58,0,179,5/18/2023
+MY1156,Siti Bin Ahmad,,Female,Kuala Lumpur,Current,31506.99,33757.27,12,11/10/2023
+MY1157,Ahmad Bin Zahra,49,Female,Kuching,Fixed Deposit,34817.86,0,20,3/6/2023
+MY1158,Fatimah Bin Zahra,56,Female,Shah Alam,Fixed Deposit,22781.6,0,181,1/13/2023
+MY1159,Farid Bin Farid,66,Female,Kota Kinabalu,Savings,31415.15,0,43,8/1/2023
+MY1160,Zahra Binti Siti,69,Male,Johor Bahru,Current,29257.28,72954.78,126,8/30/2023
+MY1161,Hafiz Bin Aisyah,49,Female,Kota Kinabalu,Savings,45067.78,49801.39,50,8/1/2023
+MY1162,Farid Bin Hafiz,21,Male,Kuala Lumpur,Savings,2367.77,68996.04,29,6/30/2023
+MY1163,Amir Binti Ahmad,47,Female,Shah Alam,Current,14120.06,43765.32,185,12/4/2023
+MY1164,Amir Bin Aisyah,54,Male,Johor Bahru,Savings,47525.53,25017,39,6/22/2023
+MY1165,Zahra Bin Zahra,40,Female,Kuala Lumpur,Current,44524.16,0,184,6/9/2023
+MY1166,Amir Binti Zahra,56,Female,Kota Kinabalu,Current,22837.27,0,171,6/13/2023
+MY1167,Fatimah Binti Amir,62,Male,Penang,Fixed Deposit,31044.62,69622.3,178,7/7/2023
+MY1168,Zahra Bin Zahra,32,Male,Kuching,Current,13941.32,0,151,7/10/2023
+MY1169,Zahra Binti Siti,60,Female,Kuala Lumpur,Current,9487.25,59227.95,172,11/4/2023
+MY1170,Ali Binti Siti,46,Female,Kuala Lumpur,Current,23238.55,0,38,9/13/2023
+MY1171,Ali Binti Aisyah,53,Female,Shah Alam,Current,17732.28,0,84,7/2/2023
+MY1172,Ali Bin Ali,30,Female,Johor Bahru,Current,29224.44,0,151,4/27/2023
+MY1173,Nur Binti Amir,49,Female,Kota Kinabalu,Fixed Deposit,3978.96,14113.45,128,10/9/2023
+MY1174,Aisyah Bin Hafiz,24,Male,Kuala Lumpur,Fixed Deposit,48722.3,95048.62,126,7/15/2023
+MY1175,Siti Binti Hafiz,68,Female,Kuching,Savings,49311.92,0,45,2/3/2023
+MY1176,Siti Bin Farid,39,Female,,Current,34938.27,18920.73,52,2/21/2023
+MY1177,Farid Binti Amir,45,Female,Kuala Lumpur,Current,26851.21,54419.14,80,4/22/2023
+MY1178,Zahra Binti Ahmad,19,Male,Shah Alam,Fixed Deposit,15545.43,0,178,9/9/2023
+MY1179,Siti Binti Farid,59,Female,Kuala Lumpur,Fixed Deposit,,0,124,3/23/2023
+MY1180,Fatimah Bin Fatimah,62,Female,Johor Bahru,Savings,34268.09,0,119,8/20/2023
+MY1181,Farid Binti Ahmad,23,Female,Shah Alam,Current,8214.59,0,8,8/15/2023
+MY1182,Nur Binti Farid,,Male,Penang,Current,45555.27,69381.52,85,8/21/2023
+MY1183,Farid Bin Zahra,45,Male,Penang,Savings,41144.61,0,129,8/9/2023
+MY1184,Siti Binti Farid,61,Female,Kota Kinabalu,Current,47495.02,25341.97,8,2/11/2023
+MY1185,Zahra Bin Farid,61,Female,Kota Kinabalu,Current,36313.4,0,157,1/21/2023
+MY1186,Nur Binti Hafiz,37,Male,Kota Kinabalu,Current,30709.42,22510.34,96,2/11/2023
+MY1187,Zahra Bin Fatimah,47,Male,Shah Alam,Fixed Deposit,20970.33,0,102,4/23/2023
+MY1188,Amir Bin Farid,28,Male,Johor Bahru,Fixed Deposit,46643.15,0,5,4/15/2023
+MY1189,Fatimah Bin Aisyah,45,Female,Shah Alam,Fixed Deposit,43316.59,0,86,7/11/2023
+MY1190,Farid Bin Zahra,42,Male,Shah Alam,Current,2356.41,0,175,1/17/2023
+MY1191,Hafiz Bin Ali,56,Male,Shah Alam,Fixed Deposit,1415.71,0,34,4/30/2023
+MY1192,Farid Binti Siti,50,Male,Shah Alam,Savings,18885.52,0,193,5/9/2023
+MY1193,Zahra Binti Nur,,Male,Kuala Lumpur,Current,40546.61,57010.55,55,5/10/2023
+MY1194,Farid Binti Farid,44,Female,Kota Kinabalu,Current,49365.08,91591.09,119,3/1/2023
+MY1195,Ali Bin Zahra,69,Female,Kota Kinabalu,Current,7605.8,3877.62,171,2/17/2023
+MY1196,Ahmad Bin Nur,30,Female,Kuching,Current,29747.12,0,158,1/29/2023
+MY1197,Siti Bin Ahmad,58,Male,Penang,Current,19106.45,30086.23,114,4/7/2023
+MY1198,Ahmad Bin Siti,20,Male,Kota Kinabalu,Savings,48498.73,0,145,1/10/2023
+MY1199,Ahmad Bin Siti,56,Female,Johor Bahru,Fixed Deposit,42121.73,97120.3,26,8/30/2023
+MY1200,Hafiz Binti Aisyah,23,Female,Kuala Lumpur,Savings,41932.6,0,136,11/10/2023
+MY1201,Fatimah Bin Zahra,,Female,Penang,Fixed Deposit,23487.79,0,47,8/20/2023
+MY1202,Ali Binti Hafiz,44,Female,Kuching,Fixed Deposit,20799.49,86273.24,113,10/4/2023
+MY1203,Fatimah Bin Hafiz,26,Male,Shah Alam,Savings,,84532.67,76,10/11/2023
+MY1204,Ali Bin Fatimah,54,Male,Kuching,Fixed Deposit,2913.14,32250.5,72,7/22/2023
+MY1205,Ahmad Binti Fatimah,50,Female,Penang,Fixed Deposit,43249.65,0,89,9/4/2023
+MY1206,Farid Binti Siti,68,Female,Kota Kinabalu,Savings,40663.76,4182.26,46,10/17/2023
+MY1207,Aisyah Bin Aisyah,59,Female,Penang,Fixed Deposit,49985.91,0,196,9/21/2023
+MY1208,Ali Bin Fatimah,61,Female,Kuala Lumpur,Current,49832.18,23385.88,33,8/2/2023
+MY1209,Ahmad Binti Amir,41,Male,Kuala Lumpur,Fixed Deposit,27816.04,12496.41,1,7/19/2023
+MY1210,Farid Binti Aisyah,32,Male,Johor Bahru,Savings,38472.47,8156.84,147,3/20/2023
+MY1211,Amir Binti Ahmad,49,Male,Shah Alam,Current,47243.81,0,31,12/9/2023
+MY1212,Farid Binti Aisyah,49,Male,Kota Kinabalu,Current,42497.4,34317.56,142,12/10/2023
+MY1213,Farid Binti Zahra,41,Female,Kota Kinabalu,Fixed Deposit,12442.67,0,53,6/22/2023
+MY1214,Hafiz Binti Hafiz,58,Female,Kuching,Savings,22582.15,7002.96,48,3/10/2023
+MY1215,Amir Binti Fatimah,69,Male,Shah Alam,Current,6545.05,0,69,3/28/2023
+MY1216,Amir Binti Zahra,66,Female,Kuching,Fixed Deposit,47707.15,54179.38,105,4/11/2023
+MY1217,Farid Binti Nur,66,Female,Shah Alam,Current,30348.11,0,90,1/8/2023
+MY1218,Siti Bin Ali,69,Female,Penang,Savings,11509.28,0,190,11/29/2023
+MY1219,Zahra Bin Zahra,29,Male,Penang,Fixed Deposit,33617.86,0,194,7/19/2023
+MY1220,Fatimah Binti Nur,56,Female,Shah Alam,Current,30944.6,0,192,3/28/2023
+MY1221,Ahmad Binti Nur,,Female,Johor Bahru,Savings,17972.32,0,198,2/12/2023
+MY1222,Hafiz Binti Siti,20,Male,Penang,Current,5766.52,0,63,4/19/2023
+MY1223,Nur Binti Nur,66,Male,Johor Bahru,Fixed Deposit,33611.5,0,73,6/1/2023
+MY1224,Ali Binti Amir,54,Male,Penang,Savings,26063.35,0,161,1/17/2023
+MY1225,Ahmad Bin Aisyah,66,Male,Kota Kinabalu,Fixed Deposit,38638.69,2616.31,169,5/13/2023
+MY1226,Siti Binti Zahra,34,Female,Kuala Lumpur,Current,26056.16,87532.82,89,5/28/2023
+MY1227,Amir Bin Zahra,66,Male,Kuala Lumpur,Current,42623.86,53129.24,176,10/4/2023
+MY1228,Zahra Binti Ahmad,19,Female,Kota Kinabalu,Savings,27640.15,0,13,8/20/2023
+MY1229,Aisyah Binti Siti,19,Male,Shah Alam,Current,28090.8,0,73,11/10/2023
+MY1230,Farid Bin Ali,,Female,Kuching,Fixed Deposit,43845.01,0,77,8/16/2023
+MY1231,Fatimah Binti Zahra,40,Female,Kuala Lumpur,Current,20233.8,35395.83,159,5/19/2023
+MY1232,Amir Binti Farid,54,Male,Penang,Fixed Deposit,6787.36,0,68,7/30/2023
+MY1233,Amir Binti Nur,49,Female,Penang,Current,1536.26,40492.13,98,1/28/2023
+MY1234,Zahra Binti Ali,50,Female,Kuala Lumpur,Fixed Deposit,37781.35,0,125,2/20/2023
+MY1235,Ali Bin Aisyah,18,Male,Kuala Lumpur,Fixed Deposit,,62936.79,102,9/18/2023
+MY1236,Siti Binti Aisyah,36,Male,Kuching,Fixed Deposit,35233.58,87430.87,132,9/18/2023
+MY1237,Amir Bin Siti,19,Female,,Current,,98416.31,102,12/16/2023
+MY1238,Siti Binti Ali,61,Male,Shah Alam,Fixed Deposit,6904.94,0,19,12/18/2023
+MY1239,Fatimah Binti Aisyah,43,Male,,Savings,825.78,42067.79,198,1/8/2023
+MY1240,Siti Binti Siti,49,Male,Kota Kinabalu,Current,17594.32,0,82,11/16/2023
+MY1241,Nur Bin Ali,23,Male,Kota Kinabalu,Fixed Deposit,29536.89,0,141,5/18/2023
+MY1242,Ahmad Bin Ali,49,Male,,Fixed Deposit,19672.98,0,23,2/7/2023
+MY1243,Ahmad Bin Amir,21,Female,Penang,Fixed Deposit,21930,0,83,4/21/2023
+MY1244,Ali Bin Zahra,,Male,Kota Kinabalu,Fixed Deposit,45217.52,0,109,8/8/2023
+MY1245,Aisyah Bin Fatimah,34,Female,Kuala Lumpur,Savings,17477.95,29080.28,75,12/3/2023
+MY1246,Ali Binti Zahra,55,Female,Shah Alam,Savings,25748.08,0,129,8/11/2023
+MY1247,Zahra Binti Hafiz,41,Female,Shah Alam,Savings,39204.29,23743.97,88,5/16/2023
+MY1248,Ahmad Binti Zahra,22,Male,Penang,Fixed Deposit,19887.48,4688.27,54,9/13/2023
+MY1249,Aisyah Bin Farid,69,Male,Kuching,Fixed Deposit,31142.13,2278.46,199,12/26/2023
+MY1250,Zahra Bin Fatimah,51,Male,Penang,Current,43131.95,98778.38,89,11/25/2023
+MY1251,Ahmad Bin Hafiz,23,Female,Kuala Lumpur,Savings,47481.08,0,143,2/18/2023
+MY1252,Fatimah Binti Aisyah,39,Female,Penang,Fixed Deposit,7438.97,38740.5,65,10/19/2023
+MY1253,Siti Bin Amir,28,Female,,Fixed Deposit,46336.72,0,76,11/20/2023
+MY1254,Farid Bin Amir,65,Female,,Savings,24656.6,22216.26,199,3/19/2023
+MY1255,Farid Binti Zahra,33,Female,Penang,Fixed Deposit,12986.39,0,143,4/15/2023
+MY1256,Ali Binti Ali,50,Male,Kota Kinabalu,Fixed Deposit,23010.87,78741.33,149,6/18/2023
+MY1257,Fatimah Bin Fatimah,26,Male,Kuching,Fixed Deposit,49003.63,9396.39,147,8/5/2023
+MY1258,Aisyah Bin Siti,23,Female,Johor Bahru,Fixed Deposit,24681.64,0,60,4/29/2023
+MY1259,Ali Bin Hafiz,33,Male,Kuching,Current,16504.71,87972.27,93,7/9/2023
+MY1260,Siti Bin Amir,,Female,Kuching,Current,31706.7,94500.84,161,9/12/2023
+MY1261,Aisyah Bin Ahmad,20,Female,Kota Kinabalu,Current,12083.27,47006.45,49,9/23/2023
+MY1262,Farid Binti Fatimah,37,Female,Johor Bahru,Savings,3885.58,0,35,5/29/2023
+MY1263,Zahra Binti Ahmad,53,Male,Penang,Savings,6531.1,0,172,6/13/2023
+MY1264,Siti Binti Ali,36,Male,Johor Bahru,Savings,6489.49,0,102,5/20/2023
+MY1265,Zahra Bin Siti,43,Male,Penang,Current,7679.94,0,11,12/13/2023
+MY1266,Ali Bin Farid,20,Female,Kota Kinabalu,Savings,7027.48,94301.81,99,9/15/2023
+MY1267,Aisyah Bin Hafiz,36,Male,Kuching,Fixed Deposit,32079.65,0,110,9/26/2023
+MY1268,Ali Bin Aisyah,37,Male,Penang,Fixed Deposit,9175.82,0,74,6/30/2023
+MY1269,Ahmad Bin Ali,49,Male,Shah Alam,Fixed Deposit,17348.8,51512.51,194,6/9/2023
+MY1270,Fatimah Binti Zahra,24,Female,Johor Bahru,Fixed Deposit,44849.74,0,174,12/17/2023
+MY1271,Aisyah Binti Ali,69,Male,Johor Bahru,Fixed Deposit,23750.69,18064.54,9,10/15/2023
+MY1272,Farid Binti Amir,58,Male,Kuala Lumpur,Fixed Deposit,33411.13,0,3,10/15/2023
+MY1273,Amir Binti Zahra,50,Female,Kuching,Fixed Deposit,8698.76,19050.61,85,8/14/2023
+MY1274,Aisyah Bin Farid,57,Male,Kuching,Savings,9695.22,78068.66,26,1/11/2023
+MY1275,Nur Binti Ahmad,56,Female,Kota Kinabalu,Current,2139.34,0,72,1/10/2023
+MY1276,Aisyah Bin Fatimah,35,Female,Penang,Current,8529.86,0,48,9/28/2023
+MY1277,Fatimah Bin Ali,57,Male,Kota Kinabalu,Current,14001.66,0,194,9/30/2023
+MY1278,Fatimah Bin Hafiz,18,Female,Kota Kinabalu,Current,8932.82,88436.7,198,7/2/2023
+MY1279,Zahra Binti Ali,28,Male,Shah Alam,Fixed Deposit,4526.26,92811.35,156,6/2/2023
+MY1280,Hafiz Binti Zahra,45,Female,,Fixed Deposit,6119.73,0,117,11/11/2023
+MY1281,Aisyah Binti Nur,42,Male,Shah Alam,Fixed Deposit,23092.86,0,154,11/30/2023
+MY1282,Farid Binti Nur,67,Female,Kuala Lumpur,Fixed Deposit,10396.05,39926.08,153,5/4/2023
+MY1283,Aisyah Bin Nur,40,Male,Johor Bahru,Savings,18277.07,0,12,4/24/2023
+MY1284,Farid Binti Ali,48,Male,Kota Kinabalu,Current,25220.52,0,133,10/5/2023
+MY1285,Farid Bin Zahra,47,Male,Kota Kinabalu,Savings,,0,48,8/1/2023
+MY1286,Aisyah Binti Ali,59,Male,Shah Alam,Current,2061.68,81675.4,37,6/21/2023
+MY1287,Nur Bin Farid,52,Female,Kuching,Savings,39990.58,22831.84,44,10/15/2023
+MY1288,Amir Bin Amir,24,Male,,Current,31432.23,22769.85,15,6/23/2023
+MY1289,Zahra Binti Ahmad,33,Male,Kota Kinabalu,Current,4179.78,0,43,4/23/2023
+MY1290,Siti Binti Fatimah,43,Male,Shah Alam,Savings,43691.57,0,176,5/2/2023
+MY1291,Zahra Binti Ahmad,65,Male,Shah Alam,Savings,46051.53,0,87,2/1/2023
+MY1292,Siti Binti Amir,,Female,Penang,Fixed Deposit,3147.79,9602.94,70,8/10/2023
+MY1293,Hafiz Binti Zahra,66,Male,Johor Bahru,Savings,13916.19,0,46,4/29/2023
+MY1294,Zahra Bin Ahmad,19,Female,Shah Alam,Current,40329.44,0,108,2/8/2023
+MY1295,Fatimah Bin Hafiz,18,Male,Penang,Current,37438.16,13386.73,123,9/25/2023
+MY1296,Ali Bin Amir,65,Female,Kuching,Current,9307.6,0,171,8/21/2023
+MY1297,Farid Bin Siti,29,Female,,Current,10546.53,0,21,1/18/2023
+MY1298,Aisyah Binti Aisyah,22,Female,,Savings,18586.56,86281.7,151,5/29/2023
+MY1299,Hafiz Binti Ali,54,Female,Penang,Fixed Deposit,24277.7,81046.85,107,5/29/2023
+MY1300,Amir Binti Farid,49,Male,Johor Bahru,Current,30950.91,65696.58,80,5/6/2023
+MY1301,Zahra Binti Siti,26,Female,Kota Kinabalu,Current,18508.79,55310.31,47,10/29/2023
+MY1302,Zahra Bin Farid,58,Female,Penang,Current,23180.48,9155.18,117,12/26/2023
+MY1303,Siti Bin Aisyah,52,Female,Shah Alam,Savings,37398.8,41141.09,124,8/26/2023
+MY1304,Ali Binti Nur,36,Male,Kuala Lumpur,Current,1930.49,37582.51,143,5/15/2023
+MY1305,Amir Binti Ahmad,65,Male,Kuching,Fixed Deposit,12696.6,26345.5,25,5/31/2023
+MY1306,Ali Binti Fatimah,33,Male,Shah Alam,Fixed Deposit,35696.14,0,36,8/24/2023
+MY1307,Fatimah Binti Hafiz,,Female,,Current,44770.82,0,51,8/12/2023
+MY1308,Zahra Binti Nur,37,Female,Kuching,Current,25632.7,0,15,7/22/2023
+MY1309,Nur Binti Zahra,41,Female,,Savings,26652.46,0,68,9/13/2023
+MY1310,Nur Bin Siti,50,Female,Penang,Current,5447.88,0,21,3/27/2023
+MY1311,Fatimah Binti Siti,41,Male,Shah Alam,Savings,22425.88,0,141,5/30/2023
+MY1312,Farid Bin Nur,69,Female,Penang,Fixed Deposit,26677.6,0,19,8/23/2023
+MY1313,Zahra Binti Farid,28,Male,Johor Bahru,Savings,12199.28,0,34,12/11/2023
+MY1314,Hafiz Binti Ahmad,66,Female,Penang,Savings,13535.24,48318.36,78,1/22/2023
+MY1315,Hafiz Binti Aisyah,25,Female,Johor Bahru,Current,18926.48,59444.57,125,12/14/2023
+MY1316,Zahra Bin Amir,53,Female,Kota Kinabalu,Fixed Deposit,1101.55,82555.76,196,10/12/2023
+MY1317,Zahra Bin Hafiz,55,Female,Kuala Lumpur,Savings,16171.75,35107.02,117,9/26/2023
+MY1318,Farid Bin Aisyah,57,Male,Shah Alam,Fixed Deposit,,0,52,9/15/2023
+MY1319,Zahra Binti Nur,37,Female,Johor Bahru,Savings,16442.12,56790.33,27,1/29/2023
+MY1320,Fatimah Binti Aisyah,52,Male,Kuala Lumpur,Fixed Deposit,6076.13,0,157,8/1/2023
+MY1321,Nur Binti Nur,65,Female,Kuching,Savings,44537.31,87923.68,156,10/10/2023
+MY1322,Zahra Bin Fatimah,42,Male,Kota Kinabalu,Fixed Deposit,29720.26,79843.89,35,2/19/2023
+MY1323,Aisyah Bin Ali,52,Female,Penang,Savings,33987.21,66015.96,136,4/5/2023
+MY1324,Siti Bin Farid,42,Male,Kuala Lumpur,Fixed Deposit,39479.64,85132.88,144,3/29/2023
+MY1325,Aisyah Bin Zahra,46,Female,Johor Bahru,Savings,24972.27,0,106,2/13/2023
+MY1326,Hafiz Binti Ahmad,35,Female,Shah Alam,Current,4437.32,0,164,10/5/2023
+MY1327,Ahmad Binti Ahmad,63,Male,Kota Kinabalu,Fixed Deposit,26901.62,0,158,6/20/2023
+MY1328,Ali Binti Nur,35,Male,Kuching,Current,29383.37,69898.41,146,7/8/2023
+MY1329,Farid Bin Siti,19,Male,Kuching,Current,37297.43,0,2,12/19/2023
+MY1330,Amir Binti Fatimah,52,Male,Kuala Lumpur,Savings,21639.81,0,177,7/3/2023
+MY1331,Hafiz Bin Hafiz,33,Female,,Current,6466.26,75395.31,77,1/3/2023
+MY1332,Aisyah Binti Fatimah,58,Female,Penang,Fixed Deposit,14260.42,0,132,7/10/2023
+MY1333,Siti Binti Fatimah,53,Female,Kuching,Savings,18217.81,0,90,4/28/2023
+MY1334,Hafiz Bin Zahra,,Male,Kota Kinabalu,Savings,32331.27,0,89,1/19/2023
+MY1335,Ali Binti Ali,21,Male,Kota Kinabalu,Fixed Deposit,28581.84,3410.1,94,1/23/2023
+MY1336,Ahmad Binti Ali,,Female,Kuching,Fixed Deposit,17869.23,82668.77,7,1/30/2023
+MY1337,Amir Bin Aisyah,31,Female,Penang,Current,49327.11,0,95,10/22/2023
+MY1338,Zahra Binti Fatimah,38,Male,Shah Alam,Current,30328.16,33844.33,108,4/18/2023
+MY1339,Ali Binti Ali,65,Male,Penang,Savings,11937.62,74479.07,74,10/8/2023
+MY1340,Zahra Binti Siti,37,Female,Johor Bahru,Fixed Deposit,5178.95,0,39,5/8/2023
+MY1341,Farid Binti Aisyah,25,Female,Johor Bahru,Fixed Deposit,7727.67,0,141,8/17/2023
+MY1342,Siti Binti Fatimah,24,Female,Kuala Lumpur,Savings,12373.29,83297.35,159,4/21/2023
+MY1343,Nur Binti Ali,20,Female,Penang,Current,8118,50993.04,71,5/16/2023
+MY1344,Ahmad Binti Ali,34,Female,Penang,Fixed Deposit,9409.69,0,191,12/28/2023
+MY1345,Ahmad Bin Fatimah,50,Male,Kota Kinabalu,Current,14326.25,0,56,7/5/2023
+MY1346,Zahra Binti Siti,65,Male,Kuala Lumpur,Current,8751.34,61884.23,170,5/24/2023
+MY1347,Fatimah Binti Siti,29,Female,Kota Kinabalu,Savings,44848.59,0,189,3/13/2023
+MY1348,Siti Binti Hafiz,68,Female,Shah Alam,Fixed Deposit,,0,42,5/9/2023
+MY1349,Aisyah Bin Ali,,Male,Penang,Savings,26273.12,0,184,12/30/2023
+MY1350,Zahra Bin Fatimah,39,Male,Kota Kinabalu,Savings,20578.8,0,36,9/18/2023
+MY1351,Nur Bin Aisyah,63,Female,Kuching,Current,,0,84,1/3/2023
+MY1352,Ali Binti Farid,47,Male,Kota Kinabalu,Fixed Deposit,5690.74,0,196,4/14/2023
+MY1353,Hafiz Bin Hafiz,55,Male,Penang,Savings,,0,118,8/12/2023
+MY1354,Amir Binti Amir,55,Female,Shah Alam,Fixed Deposit,48476.57,0,7,11/16/2023
+MY1355,Amir Binti Hafiz,62,Female,Penang,Savings,43288.81,54356.02,54,12/28/2023
+MY1356,Ali Binti Ali,68,Female,Kuching,Fixed Deposit,40871.9,96317.7,129,12/20/2023
+MY1357,Nur Bin Zahra,25,Female,Johor Bahru,Savings,12969.35,0,172,1/10/2023
+MY1358,Aisyah Bin Siti,44,Male,Johor Bahru,Current,8627.29,63445.88,120,10/29/2023
+MY1359,Farid Binti Aisyah,,Male,Shah Alam,Current,33465.3,0,173,8/19/2023
+MY1360,Farid Bin Ali,51,Female,Shah Alam,Savings,46475.86,0,106,8/7/2023
+MY1361,Amir Bin Zahra,,Male,Kuching,Current,27882.47,0,47,3/7/2023
+MY1362,Nur Binti Fatimah,47,Female,Kota Kinabalu,Savings,28623.47,0,123,4/22/2023
+MY1363,Farid Binti Aisyah,50,Female,Johor Bahru,Current,14070.96,7249.79,141,1/13/2023
+MY1364,Siti Binti Ahmad,45,Female,Johor Bahru,Fixed Deposit,38497.7,0,119,3/27/2023
+MY1365,Fatimah Binti Fatimah,64,Female,Johor Bahru,Current,9433.48,0,150,8/22/2023
+MY1366,Siti Bin Zahra,50,Male,Johor Bahru,Fixed Deposit,16251.59,7201.38,118,3/31/2023
+MY1367,Ali Binti Aisyah,22,Female,Kuching,Fixed Deposit,21329.28,0,21,11/10/2023
+MY1368,Hafiz Bin Ahmad,65,Male,Shah Alam,Current,25429.76,0,137,2/23/2023
+MY1369,Ali Binti Aisyah,36,Male,Shah Alam,Fixed Deposit,12196.25,62281.09,26,1/12/2023
+MY1370,Aisyah Bin Amir,21,Female,Kuala Lumpur,Current,5830.36,0,9,7/28/2023
+MY1371,Hafiz Binti Zahra,52,Female,Kota Kinabalu,Fixed Deposit,30569.94,0,15,1/14/2023
+MY1372,Nur Binti Fatimah,66,Male,Shah Alam,Current,14502.66,97362.15,10,5/1/2023
+MY1373,Hafiz Binti Aisyah,34,Female,Johor Bahru,Fixed Deposit,29103.79,96903.35,122,1/20/2023
+MY1374,Zahra Binti Ali,61,Female,Penang,Savings,7802.7,75090.36,121,3/16/2023
+MY1375,Ahmad Binti Siti,45,Female,Johor Bahru,Current,24108.89,0,125,8/31/2023
+MY1376,Zahra Binti Siti,47,Male,Johor Bahru,Current,26676.21,75947.19,170,8/11/2023
+MY1377,Nur Bin Nur,,Male,Shah Alam,Current,2685.99,2946.4,72,3/11/2023
+MY1378,Amir Binti Ahmad,63,Male,Kuala Lumpur,Fixed Deposit,16896.55,0,152,11/8/2023
+MY1379,Farid Binti Siti,23,Female,Kuching,Savings,6807.29,32699.22,49,7/30/2023
+MY1380,Aisyah Binti Aisyah,52,Female,Penang,Fixed Deposit,3262.41,0,154,4/11/2023
+MY1381,Siti Bin Ahmad,58,Female,Kota Kinabalu,Fixed Deposit,49499.02,0,91,7/5/2023
+MY1382,Nur Bin Hafiz,54,Female,Penang,Current,16185.46,68487.89,37,5/12/2023
+MY1383,Fatimah Bin Aisyah,41,Male,Kuala Lumpur,Fixed Deposit,40512.73,44867.32,68,4/21/2023
+MY1384,Amir Bin Fatimah,46,Male,Johor Bahru,Fixed Deposit,12806.57,27725.85,50,5/12/2023
+MY1385,Siti Bin Nur,66,Female,Kuching,Savings,34106.99,0,152,1/20/2023
+MY1386,Hafiz Bin Ali,63,Male,Kuching,Fixed Deposit,38035.37,0,19,1/24/2023
+MY1387,Hafiz Bin Amir,48,Male,Kuching,Savings,29822.37,0,100,8/15/2023
+MY1388,Ali Bin Aisyah,52,Male,Kota Kinabalu,Current,23631.65,16780.57,60,6/3/2023
+MY1389,Ahmad Bin Ahmad,50,Male,Shah Alam,Savings,20650.86,79583.55,167,10/20/2023
+MY1390,Nur Bin Fatimah,69,Female,Johor Bahru,Savings,17508.53,69521.38,89,8/18/2023
+MY1391,Nur Bin Hafiz,38,Female,Penang,Current,46483.5,22466.58,146,11/6/2023
+MY1392,Ali Bin Hafiz,49,Female,Penang,Savings,41547.91,0,147,12/25/2023
+MY1393,Farid Bin Aisyah,40,Male,Johor Bahru,Savings,48254.84,0,164,7/21/2023
+MY1394,Zahra Binti Nur,50,Male,Penang,Current,6302.43,65623.87,183,2/7/2023
+MY1395,Amir Bin Zahra,20,Female,Shah Alam,Fixed Deposit,36570.29,27689.32,69,9/17/2023
+MY1396,Amir Bin Fatimah,35,Female,Kuching,Savings,46923.19,0,175,7/7/2023
+MY1397,Ahmad Binti Zahra,42,Male,Penang,Fixed Deposit,9143.53,15530.26,49,2/26/2023
+MY1398,Ahmad Bin Zahra,59,Female,Shah Alam,Current,,0,108,1/20/2023
+MY1399,Farid Binti Aisyah,48,Female,Kuching,Current,37081.92,0,161,9/30/2023
+MY1400,Zahra Binti Aisyah,20,Female,Kota Kinabalu,Fixed Deposit,28766.21,0,119,4/29/2023
+MY1401,Aisyah Binti Fatimah,57,Female,Kota Kinabalu,Savings,42107.26,64033.33,149,3/12/2023
+MY1402,Hafiz Bin Hafiz,63,Female,Johor Bahru,Fixed Deposit,7074.64,40060.64,150,1/4/2023
+MY1403,Ali Binti Farid,41,Female,Johor Bahru,Current,39783.84,27784.41,176,8/9/2023
+MY1404,Fatimah Binti Zahra,67,Male,Shah Alam,Current,10161.2,98405.78,37,1/14/2023
+MY1405,Amir Binti Aisyah,49,Female,Kota Kinabalu,Savings,8266.43,41228.73,143,1/3/2023
+MY1406,Aisyah Bin Farid,64,Female,Kota Kinabalu,Current,8296.86,89462.87,163,8/4/2023
+MY1407,Zahra Bin Farid,39,Male,Kota Kinabalu,Fixed Deposit,40747.28,23380.48,199,8/17/2023
+MY1408,Nur Binti Farid,40,Female,Shah Alam,Fixed Deposit,33293.34,21703.92,160,12/2/2023
+MY1409,Farid Bin Nur,19,Female,Shah Alam,Fixed Deposit,26200.96,0,11,7/5/2023
+MY1410,Farid Binti Ali,44,Male,Penang,Fixed Deposit,18005.64,0,138,2/24/2023
+MY1411,Nur Bin Zahra,59,Female,Kota Kinabalu,Savings,43872.31,37168.37,78,9/11/2023
+MY1412,Aisyah Bin Aisyah,19,Female,Johor Bahru,Fixed Deposit,19683.01,0,77,1/24/2023
+MY1413,Aisyah Binti Aisyah,43,Male,Penang,Savings,40848.31,0,185,6/11/2023
+MY1414,Nur Bin Amir,34,Male,Penang,Current,22012.83,96835.25,153,6/7/2023
+MY1415,Ahmad Binti Aisyah,57,Female,Kota Kinabalu,Current,18909.53,0,2,3/23/2023
+MY1416,Farid Binti Farid,50,Male,Kuching,Savings,23187.72,86928.01,64,6/8/2023
+MY1417,Ahmad Binti Fatimah,26,Female,Shah Alam,Savings,15138.76,77771.39,35,7/7/2023
+MY1418,Ali Binti Aisyah,60,Male,Penang,Current,37405.71,0,7,3/1/2023
+MY1419,Fatimah Bin Hafiz,65,Male,Kuching,Current,25185.75,0,85,11/1/2023
+MY1420,Zahra Bin Aisyah,56,Male,Kota Kinabalu,Fixed Deposit,11687.41,0,146,11/15/2023
+MY1421,Nur Binti Aisyah,46,Male,Kuala Lumpur,Savings,44988.77,0,67,7/30/2023
+MY1422,Ali Bin Farid,59,Male,Kuching,Current,19256.17,0,42,6/1/2023
+MY1423,Amir Bin Fatimah,43,Male,Kuala Lumpur,Savings,27223.29,3736.35,118,4/19/2023
+MY1424,Ali Bin Hafiz,52,Female,Kuala Lumpur,Current,45332.96,0,125,3/17/2023
+MY1425,Ali Binti Nur,67,Female,Kota Kinabalu,Savings,31249.48,0,167,1/30/2023
+MY1426,Nur Bin Hafiz,42,Female,Kuala Lumpur,Savings,5933.21,79755.46,169,11/10/2023
+MY1427,Hafiz Binti Aisyah,41,Male,Kuala Lumpur,Current,46997.62,48411.47,24,4/27/2023
+MY1428,Hafiz Bin Aisyah,30,Female,Shah Alam,Fixed Deposit,,0,188,12/22/2023
+MY1429,Amir Bin Farid,24,Male,,Fixed Deposit,16811.79,0,46,7/11/2023
+MY1430,Farid Binti Nur,53,Female,Kota Kinabalu,Fixed Deposit,7049.68,0,19,1/19/2023
+MY1431,Hafiz Binti Ali,62,Female,Penang,Current,39721.86,43315.44,68,6/22/2023
+MY1432,Nur Bin Ahmad,37,Male,Kuala Lumpur,Current,,20452.21,102,8/16/2023
+MY1433,Hafiz Bin Fatimah,18,Male,Kota Kinabalu,Fixed Deposit,26719.71,0,42,12/16/2023
+MY1434,Ahmad Bin Ali,25,Male,,Current,44705.24,6888.79,32,7/2/2023
+MY1435,Zahra Binti Zahra,63,Female,Kuala Lumpur,Current,39451,0,167,4/23/2023
+MY1436,Fatimah Binti Farid,33,Female,Penang,Fixed Deposit,7668.58,0,109,7/2/2023
+MY1437,Ali Bin Amir,31,Female,Kuching,Current,15654.93,79857.13,36,5/26/2023
+MY1438,Aisyah Binti Farid,29,Female,Shah Alam,Current,12499.61,31381.01,97,11/15/2023
+MY1439,Aisyah Binti Fatimah,68,Male,Johor Bahru,Savings,,0,164,4/26/2023
+MY1440,Zahra Binti Ahmad,40,Female,Kuala Lumpur,Savings,1773.27,1656.24,131,4/23/2023
+MY1441,Siti Binti Fatimah,32,Female,Kuching,Fixed Deposit,28537.5,0,73,9/8/2023
+MY1442,Ahmad Bin Siti,45,Female,Kota Kinabalu,Savings,,0,136,9/8/2023
+MY1443,Ali Bin Hafiz,51,Female,Kota Kinabalu,Savings,43850.61,0,97,10/30/2023
+MY1444,Ali Binti Nur,19,Female,,Current,17169.88,0,123,11/9/2023
+MY1445,Aisyah Bin Zahra,49,Male,Shah Alam,Savings,41080.74,0,70,4/28/2023
+MY1446,Farid Bin Hafiz,40,Male,Kota Kinabalu,Current,5620.52,0,169,10/28/2023
+MY1447,Farid Bin Amir,39,Female,Shah Alam,Savings,42337.97,86082.18,196,6/10/2023
+MY1448,Amir Binti Aisyah,68,Female,Kuala Lumpur,Fixed Deposit,6461.68,0,13,7/17/2023
+MY1449,Farid Bin Farid,42,Male,Kuala Lumpur,Current,19924.64,4442.07,49,9/17/2023
+MY1450,Ahmad Binti Aisyah,39,Female,Kuching,Savings,39885.04,0,60,5/28/2023
+MY1451,Nur Binti Fatimah,39,Female,Kuching,Current,7580.88,0,130,8/28/2023
+MY1452,Farid Binti Ali,66,Male,Shah Alam,Fixed Deposit,11539.64,24583.48,188,2/16/2023
+MY1453,Aisyah Binti Ahmad,,Female,Kuala Lumpur,Fixed Deposit,36140.4,0,5,7/17/2023
+MY1454,Nur Bin Fatimah,59,Female,Kuala Lumpur,Current,36029.82,14678.31,172,2/16/2023
+MY1455,Zahra Binti Aisyah,23,Female,Kuching,Fixed Deposit,32093.27,0,27,3/19/2023
+MY1456,Farid Bin Siti,32,Female,,Fixed Deposit,34728.03,0,160,5/4/2023
+MY1457,Farid Binti Amir,60,Female,Johor Bahru,Savings,27181.95,0,149,3/16/2023
+MY1458,Aisyah Binti Ali,54,Female,Kuching,Fixed Deposit,12664.77,0,8,12/25/2023
+MY1459,Nur Bin Nur,50,Male,,Savings,17350.23,0,50,5/17/2023
+MY1460,Hafiz Bin Amir,25,Female,Kuala Lumpur,Current,9161.73,32982.9,67,3/31/2023
+MY1461,Aisyah Bin Nur,61,Female,Kuching,Fixed Deposit,45431.68,0,44,11/21/2023
+MY1462,Nur Bin Siti,61,Female,Kota Kinabalu,Current,29211.25,9242.72,125,3/2/2023
+MY1463,Aisyah Bin Ali,22,Male,Kota Kinabalu,Fixed Deposit,20102.49,35387.38,58,5/18/2023
+MY1464,Siti Bin Fatimah,56,Female,Shah Alam,Savings,23154.09,0,3,2/19/2023
+MY1465,Hafiz Bin Hafiz,21,Male,Penang,Fixed Deposit,47369.44,8318.56,86,9/16/2023
+MY1466,Zahra Binti Fatimah,,Female,Kuala Lumpur,Current,,39993.87,70,4/17/2023
+MY1467,Fatimah Binti Fatimah,62,Male,Kuala Lumpur,Fixed Deposit,29352.87,13705.22,130,4/23/2023
+MY1468,Fatimah Binti Nur,49,Female,Kuching,Savings,25343.85,0,172,12/16/2023
+MY1469,Hafiz Binti Aisyah,69,Female,Penang,Current,30611.57,0,2,9/11/2023
+MY1470,Zahra Binti Ali,47,Female,Penang,Savings,1003.7,80158.38,102,4/28/2023
+MY1471,Ali Bin Nur,64,Female,Penang,Fixed Deposit,43618.98,20414.95,35,7/17/2023
+MY1472,Amir Bin Ali,52,Male,Kuching,Fixed Deposit,46612.7,17164.52,98,12/3/2023
+MY1473,Zahra Binti Ahmad,57,Male,Kuching,Savings,28300.15,0,30,12/31/2023
+MY1474,Ahmad Binti Ali,69,Female,Johor Bahru,Current,34862.88,63824.81,116,2/20/2023
+MY1475,Aisyah Bin Fatimah,33,Female,Johor Bahru,Savings,46132.72,0,8,9/2/2023
+MY1476,Fatimah Binti Zahra,30,Male,Johor Bahru,Current,,0,150,2/4/2023
+MY1477,Fatimah Bin Zahra,67,Male,Shah Alam,Current,7711.7,93653.12,44,10/29/2023
+MY1478,Fatimah Bin Nur,59,Male,Kuala Lumpur,Current,28856.79,5671.14,186,3/10/2023
+MY1479,Fatimah Binti Amir,47,Male,Johor Bahru,Savings,30375.08,54358.99,36,12/15/2023
+MY1480,Hafiz Bin Zahra,36,Male,Shah Alam,Current,21264.12,0,197,11/16/2023
+MY1481,Aisyah Binti Aisyah,34,Male,Shah Alam,Savings,36848.57,0,77,2/18/2023
+MY1482,Amir Bin Ahmad,36,Male,,Savings,46724.91,0,31,3/15/2023
+MY1483,Siti Binti Zahra,45,Male,Penang,Savings,46285.87,80271.94,47,7/11/2023
+MY1484,Amir Bin Nur,43,Male,Kota Kinabalu,Fixed Deposit,22596.88,0,55,9/18/2023
+MY1485,Nur Binti Farid,54,Female,Penang,Fixed Deposit,5750.58,0,106,12/22/2023
+MY1486,Farid Binti Fatimah,43,Female,Johor Bahru,Fixed Deposit,49243.58,8471.43,190,3/11/2023
+MY1487,Ahmad Binti Aisyah,40,Female,Kota Kinabalu,Current,41961.01,0,158,3/31/2023
+MY1488,Nur Bin Amir,26,Male,Kuala Lumpur,Fixed Deposit,6320.67,0,121,9/17/2023
+MY1489,Farid Binti Ali,29,Male,Kota Kinabalu,Fixed Deposit,46050.01,81821.13,55,5/6/2023
+MY1490,Fatimah Bin Nur,18,Male,,Fixed Deposit,43507.83,0,144,8/19/2023
+MY1491,Aisyah Bin Nur,,Male,Kuala Lumpur,Current,25990.02,64535.98,12,10/22/2023
+MY1492,Ali Binti Hafiz,64,Female,Kuala Lumpur,Savings,29604.64,0,145,5/9/2023
+MY1493,Fatimah Bin Ali,51,Female,Shah Alam,Fixed Deposit,20010.23,0,144,10/7/2023
+MY1494,Amir Binti Nur,49,Female,Shah Alam,Savings,2832.61,8622.18,140,11/9/2023
+MY1495,Hafiz Bin Farid,,Male,Shah Alam,Savings,16826.34,6505.03,136,4/10/2023
+MY1496,Amir Binti Ahmad,42,Female,Kuching,Savings,40162.39,0,3,11/22/2023
+MY1497,Nur Binti Hafiz,,Female,Shah Alam,Savings,331.14,0,144,10/24/2023
+MY1498,Siti Binti Zahra,62,Female,Kuala Lumpur,Fixed Deposit,16741.61,87242.46,30,7/1/2023
+MY1499,Siti Bin Hafiz,18,Male,Kota Kinabalu,Current,19968.62,22311.79,23,6/23/2023
+MY1049,Fatimah Bin Aisyah,42,Female,Kota Kinabalu,Savings,34182.04,0,117,6/7/2023
+MY1374,Zahra Binti Ali,61,Female,Penang,Savings,7802.7,75090.36,121,3/16/2023
+MY1334,Hafiz Bin Zahra,,Male,Kota Kinabalu,Savings,32331.27,0,89,1/19/2023
+MY1240,Siti Binti Siti,49,Male,Kota Kinabalu,Current,17594.32,0,82,11/16/2023
+MY1196,Ahmad Bin Nur,30,Female,Kuching,Current,29747.12,0,158,1/29/2023
+MY1316,Zahra Bin Amir,53,Female,Kota Kinabalu,Fixed Deposit,1101.55,82555.76,196,10/12/2023
+MY1023,Farid Binti Amir,19,Female,Johor Bahru,Fixed Deposit,2360.67,99688.99,93,8/25/2023
+MY1026,Farid Binti Aisyah,29,Female,Kota Kinabalu,Savings,25206.5,7174.11,97,12/7/2023
+MY1100,Aisyah Bin Nur,62,Female,Kuching,Current,2972.18,42808.74,164,9/11/2023
+MY1457,Farid Binti Amir,60,Female,Johor Bahru,Savings,27181.95,0,149,3/16/2023
